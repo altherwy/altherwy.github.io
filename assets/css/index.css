@@ -230,7 +230,7 @@ body {
   max-width: 180px;
   max-height: 180px;
   border-radius: 5px;
-  background-size: cover !important;
+  background-size: contain !important;
   background-repeat: no-repeat !important;
 }
 
