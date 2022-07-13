@@ -43,7 +43,6 @@
         }, 800);
       }, 1500);
       $.getJSON("../../config.json", function(user) {
-        alert(user[0].userimg);
         var icon = document.createElement("link");
         icon.setAttribute("rel", "icon");
         icon.setAttribute("href", user[0].userimg);
