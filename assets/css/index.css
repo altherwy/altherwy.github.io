@@ -89,7 +89,7 @@ body {
   width: 90px;
   height: 90px;
   background-size: contain !important;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat !important;
 }
 
 #username_blog {
