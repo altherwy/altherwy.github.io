@@ -144,7 +144,7 @@
     </div>
   </div>
   <div class="demo-footer"><a href="http://www.turkishnews.com/Ataturk/life.htm" target="_blank">Source/Kaynak</a></div>
-  <button onclick="backHome()" class="btn btn-dark" title="Go to top">Home</button>
+  <button onclick="backHome()" id="btns" class="btn btn-dark" title="Go to top">Home</button>
   <!-- <button onclick="backHome()" id="myBtn" type="button" class="btn btn-dark">Dark</button> -->
   <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
@@ -152,7 +152,7 @@
   <script>
     //Get the button
     //var mybutton = document.getElementById("myBtn");
-    var mybutton = document.getElementsByClassName("btn btn-dark");
+    var mybutton = document.getElementsById("btns");
 
     // When the user scrolls down 20px from the top of the document, show the button
     window.onscroll = function () { scrollFunction() };
