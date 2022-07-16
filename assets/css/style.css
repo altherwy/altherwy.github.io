@@ -15,7 +15,7 @@
   padding: 0 10px;
   box-sizing: border-box;
   font-family: "Pathway Gothic One", sans-serif;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 .timeline__content-desc {
   margin: 0;
