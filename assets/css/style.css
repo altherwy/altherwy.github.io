@@ -19,7 +19,7 @@
 }
 .timeline__content-desc {
   margin: 0;
-  font-size: 15px;
+  font-size: 19px;
   box-sizing: border-box;
   color: rgba(255, 255, 255, 0.7);
   font-family: Cardo;
@@ -64,7 +64,7 @@
   width: 100%;
   position: absolute;
   color: rgba(255, 255, 255, 0.5);
-  font-size: 13px;
+  font-size: 17px;
   font-family: "Pathway Gothic One", sans-serif;
   border-left: 2px solid rgba(255, 255, 255, 0.5);
   top: 70%;
@@ -152,7 +152,7 @@
   position: relative;
 }
 .timeline-header__title {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 46px;
   font-family: Cardo;
   font-weight: normal;
@@ -161,7 +161,7 @@
 .timeline-header__subtitle {
   color: rgba(255, 255, 255, 0.5);
   font-family: "Pathway Gothic One", sans-serif;
-  font-size: 16px;
+  font-size: 19px;
   letter-spacing: 5px;
   margin: 10px 0 0 0;
   font-weight: normal;
@@ -172,7 +172,7 @@
   text-align: center;
 }
 .demo-footer a {
-  color: #999;
+  color: rgb(255, 255, 255);
   display: inline-block;
   font-family: Cardo;
 }
