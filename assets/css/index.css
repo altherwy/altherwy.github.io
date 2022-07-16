@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins");
 @import url("https://fonts.googleapis.com/css?family=Questrial");
+@import url(https://fonts.googleapis.com/css?family=Cardo);
 
 body {
   margin: 0%;
@@ -10,7 +11,8 @@ body {
   max-width: 100vw;
   overflow-x: hidden;
   align-items: center;
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
+  font-family: "Cardo", sans-serif;
 }
 
 #loading {
@@ -76,7 +78,8 @@ body {
   font-size: 50px;
   color: var(--text-color);
   font-weight: bold;
-  font-family: "Questrial", sans-serif;
+  /*font-family: "Questrial", sans-serif;*/
+  font-family: "Cardo", sans-serif;
 }
 
 .emoji {
@@ -95,18 +98,21 @@ body {
 #username_blog {
   font-size: 18px;
   color: var(--text-color);
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
+  font-family: "Cardo", sans-serif;
   font-weight: bold;
 }
 
 #username_blog span {
   font-size: 24px;
-  font-family: "Questrial", sans-serif !important;
+  /*font-family: "Questrial", sans-serif !important;*/
+  font-family: "Cardo", sans-serif !important;
 }
 
 #username_blog b {
   font-size: 12px;
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
+  font-family: "Cardo", sans-serif;
   font-weight: bold;
 }
 
@@ -159,7 +165,8 @@ body {
 
 #blog-display {
   padding: 1vh 0px;
-  font-family: "Questrial", sans-serif;
+  /*font-family: "Questrial", sans-serif;*/
+  font-family: "Cardo", sans-serif;
 }
 
 #blog p {
@@ -205,7 +212,8 @@ body {
 #footer_blog a {
   color: var(--text-color) !important;
   text-decoration: none;
-  font-family: "Questrial", sans-serif;
+  /*font-family: "Questrial", sans-serif;*/
+  font-family: "Cardo", sans-serif;
   font-weight: bold;
 }
 
@@ -218,7 +226,8 @@ body {
 #footer a {
   color: var(--text-color) !important;
   text-decoration: none;
-  font-family: "Questrial", sans-serif;
+  /*font-family: "Questrial", sans-serif;*/
+  font-family: "Cardo", sans-serif;
   font-weight: bold;
 }
 
@@ -250,13 +259,15 @@ body {
 
 #userbio {
   font-size: 26px;
-  font-family: "Questrial", sans-serif;
+  /*font-family: "Questrial", sans-serif;*/
+  font-family: "Cardo", sans-serif;
   width: 100%;
 }
 
 #about {
   font-size: 18px;
-  font-family: "Questrial", sans-serif;
+  /*font-family: "Questrial", sans-serif;*/
+  font-family: "Cardo", sans-serif;
 }
 
 #about a,
@@ -333,7 +344,8 @@ body {
 
 .about_section {
   font-size: 18px;
-  font-family: "Questrial", sans-serif;
+  /*font-family: "Questrial", sans-serif;*/
+  font-family: "Cardo", sans-serif;
   margin: 2vh 0px;
   font-weight: bold;
   word-wrap: break-word;
