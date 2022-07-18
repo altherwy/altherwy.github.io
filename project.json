@@ -19,5 +19,26 @@
         "sub_title": "Animate a field of grass",
         "project_language":"C++/OpenGL",
         "project_date": "2015"
+    },
+    {
+        "project_url": "https://github.com/altherwy/iDetect",
+        "title": "iDetect",
+        "sub_title": "BSc final project for detecting phishing and hacked websites",
+        "project_language":"Java",
+        "project_date": "2010"
+    },
+    {
+        "project_url": "https://github.com/altherwy/ModelViewer-OpenGL",
+        "title": "ModelViewer-OpenGL",
+        "sub_title": "a 3D model viewer in C++/OpenGL",
+        "project_language":"C++",
+        "project_date": "2015"
+    },
+    {
+        "project_url": "https://github.com/altherwy/GrassField",
+        "title": "GrassField",
+        "sub_title": "Animate a field of grass",
+        "project_language":"C++/OpenGL",
+        "project_date": "2015"
     }
 ]
