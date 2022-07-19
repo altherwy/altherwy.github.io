@@ -1,30 +1,51 @@
 [
     {
+        "project_url": "https://github.com/altherwy/SING",
+        "title": "SING",
+        "sub_title": "The Ph.D. project for estimating the moisture in grapes through RF sensing",
+        "project_language": "Python/MongoDB",
+        "project_date": "2018-2021"
+    },
+    {
+        "project_url": "https://github.com/altherwy/RFID-MSc.-Project",
+        "title": "RFID-MSc.-Project",
+        "sub_title": "MSc. project for computing the connectivity of mobile RFID tags",
+        "project_language": "Java",
+        "project_date": "2014-2015"
+    },
+    {
+        "project_url": "https://github.com/altherwy/Eilish-Monroe_Motor",
+        "title": "Eilish-Monroe_Motor",
+        "sub_title": "Rotating the Eilish-Monroe artwork",
+        "project_language": "Android",
+        "project_date": "2022"
+    },
+    {
         "project_url": "https://github.com/altherwy/RFcovID",
         "title": "RFcovID",
         "sub_title": "Detect Pneumonia-infected lungs through RF signals (feasibility study)",
-        "project_language":"CST Microwave Studio",
+        "project_language": "CST Microwave Studio",
         "project_date": "2021"
     },
     {
         "project_url": "https://github.com/altherwy/iDetect",
         "title": "iDetect",
         "sub_title": "BSc final project for detecting phishing and hacked websites",
-        "project_language":"Java",
+        "project_language": "Java/MySql",
         "project_date": "2010"
     },
     {
         "project_url": "https://github.com/altherwy/ModelViewer-OpenGL",
         "title": "ModelViewer-OpenGL",
         "sub_title": "a 3D model viewer in C++/OpenGL",
-        "project_language":"C++/OpenGL",
+        "project_language": "C++/OpenGL",
         "project_date": "2015"
     },
     {
         "project_url": "https://github.com/altherwy/GrassField",
         "title": "GrassField",
         "sub_title": "Animate a field of grass",
-        "project_language":"C++/OpenGL",
+        "project_language": "C++/OpenGL",
         "project_date": "2015"
     }
 ]
