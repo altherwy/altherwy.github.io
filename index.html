@@ -187,7 +187,7 @@
   </div>
   <script type="text/javascript">
     var general_vars = {
-      project_length: 0
+      project_length: 3
     };
     setTimeout(function () {
       document.getElementById("loading").classList.add("animated");
@@ -267,21 +267,8 @@
     });
     
 
-    /*const magicForksGrid = new MagicGrid({
-      container: "#forks_section",
-      animate: false,
-      gutter: 30, // default gutter size
-      static: true,
-      useMin: false,
-      maxColumns: 2,
-      useTransform: true
-    });*/
-
-    $("document").ready(() => {
-      alert("Hello");
-      magicProjectsGrid.items = general_vars.project_length;
+    $(function(){
       magicProjectsGrid.listen();
-      // magicForksGrid.listen();
     });
   </script>
 
