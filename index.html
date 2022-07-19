@@ -186,6 +186,9 @@
     </div>
   </div>
   <script type="text/javascript">
+    var general_vars = {
+      project_length: 0
+    };
     setTimeout(function () {
       document.getElementById("loading").classList.add("animated");
       document.getElementById("loading").classList.add("fadeOut");
@@ -243,6 +246,7 @@
             
           `);
       }
+      general_vars.project_length = project_.length;
 
     }).fail(function () {
       return (document.getElementById("work").style.display = "none");
@@ -256,7 +260,7 @@
       animate: false,
       gutter: 30, // default gutter size
       static: false,
-      items:3,
+      items: general_vars.project_length,
       useMin: false,
       maxColumns: 2,
       useTransform: true
