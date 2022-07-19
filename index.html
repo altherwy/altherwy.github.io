@@ -186,8 +186,9 @@
     </div>
   </div>
   <script type="text/javascript">
+    var projects_ = $.getJSON("project.json");
     var general_vars = {
-      project_length: 3
+      project_length: Object.keys(projects_).length
     };
     setTimeout(function () {
       document.getElementById("loading").classList.add("animated");
