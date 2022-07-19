@@ -9,21 +9,21 @@
     {
         "project_url": "https://github.com/altherwy/RFcovID",
         "title": "RFcovID",
-        "sub_title": "Detect Pneumonia-infected lungs through RF signals (feasibility study)",
+        "sub_title": "Feasibility study about COVID-19",
         "project_language": "CST Microwave Studio",
         "project_date": "2021"
     },
     {
         "project_url": "https://github.com/altherwy/SING",
         "title": "SING",
-        "sub_title": "The Ph.D. project for estimating the moisture in grapes through RF sensing",
+        "sub_title": "The Ph.D. project",
         "project_language": "Python/MongoDB",
         "project_date": "2018-2021"
     },
     {
         "project_url": "https://github.com/altherwy/ModelViewer-OpenGL",
         "title": "ModelViewer-OpenGL",
-        "sub_title": "a 3D model viewer in C++/OpenGL",
+        "sub_title": "a 3D model viewer",
         "project_language": "C++/OpenGL",
         "project_date": "2015"
     },
@@ -37,7 +37,7 @@
     {
         "project_url": "https://github.com/altherwy/RFID-MSc.-Project",
         "title": "RFID-MSc.-Project",
-        "sub_title": "MSc. project for computing the connectivity of mobile RFID tags",
+        "sub_title": "MSc. project",
         "project_language": "Java",
         "project_date": "2014-2015"
     },
@@ -46,7 +46,7 @@
     {
         "project_url": "https://github.com/altherwy/iDetect",
         "title": "iDetect",
-        "sub_title": "BSc final project for detecting phishing and hacked websites",
+        "sub_title": "BSc project",
         "project_language": "Java/MySql",
         "project_date": "2010"
     }
