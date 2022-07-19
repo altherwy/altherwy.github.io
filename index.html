@@ -186,30 +186,6 @@
     </div>
   </div>
   <script type="text/javascript">
-    const magicProjectsGrid = new MagicGrid({
-      container: "#work_section",
-      animate: false,
-      gutter: 30, // default gutter size
-      static: true,
-      useMin: false,
-      maxColumns: 2,
-      useTransform: true
-    });
-
-    /*const magicForksGrid = new MagicGrid({
-      container: "#forks_section",
-      animate: false,
-      gutter: 30, // default gutter size
-      static: true,
-      useMin: false,
-      maxColumns: 2,
-      useTransform: true
-    });*/
-
-    $("document").ready(() => {
-      magicProjectsGrid.listen();
-      // magicForksGrid.listen();
-    });
     setTimeout(function () {
       document.getElementById("loading").classList.add("animated");
       document.getElementById("loading").classList.add("fadeOut");
@@ -274,12 +250,13 @@
 
   </script>
 
-  <!-- <script>
+  <script>
     const magicProjectsGrid = new MagicGrid({
       container: "#work_section",
       animate: false,
       gutter: 30, // default gutter size
-      static: true,
+      static: false,
+      items:6,
       useMin: false,
       maxColumns: 2,
       useTransform: true
@@ -299,7 +276,7 @@
       magicProjectsGrid.listen();
       // magicForksGrid.listen();
     });
-  </script> -->
+  </script>
 
 
 </body>
