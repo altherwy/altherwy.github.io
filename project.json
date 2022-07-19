@@ -1,5 +1,12 @@
 [
     {
+        "project_url": "https://github.com/altherwy/RFcovID",
+        "title": "RFcovID",
+        "sub_title": "Detect Pneumonia-infected lungs through RF signals (feasibility study)",
+        "project_language":"CST Microwave Studio",
+        "project_date": "2021"
+    },
+    {
         "project_url": "https://github.com/altherwy/iDetect",
         "title": "iDetect",
         "sub_title": "BSc final project for detecting phishing and hacked websites",
