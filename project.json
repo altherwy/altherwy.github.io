@@ -35,9 +35,16 @@
         "project_date": "2015"
     },
     {
-        "project_url": "https://github.com/altherwy/RFID-MSc.-Project",
-        "title": "RFID-MSc.-Project",
-        "sub_title": "MSc. project",
+        "project_url": "https://github.com/altherwy/BulkSize",
+        "title": "RFID Detection Scheme",
+        "sub_title": "RFID Scheme for detecting tags",
+        "project_language": "Java",
+        "project_date": "2014-2015"
+    },
+    {
+        "project_url": "https://github.com/altherwy/RFIDSimulator",
+        "title": "RFID Simulator",
+        "sub_title": "Track persons by RFID Readers and motion sensors",
         "project_language": "Java",
         "project_date": "2014-2015"
     },
