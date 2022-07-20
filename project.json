@@ -36,14 +36,14 @@
     },
     {
         "project_url": "https://github.com/altherwy/BulkSize",
-        "title": "RFID Detection Scheme",
+        "title": "RFID Detection Scheme (Archived)",
         "sub_title": "RFID Scheme for detecting tags",
         "project_language": "Java",
         "project_date": "2014-2015"
     },
     {
         "project_url": "https://github.com/altherwy/RFIDSimulator",
-        "title": "RFID Simulator",
+        "title": "RFID Simulator (Archived)",
         "sub_title": "Track persons by RFID Readers and motion sensors",
         "project_language": "Java",
         "project_date": "2014-2015"
@@ -52,7 +52,7 @@
     
     {
         "project_url": "https://github.com/altherwy/iDetect",
-        "title": "iDetect",
+        "title": "iDetect (Archived)",
         "sub_title": "BSc project",
         "project_language": "Java/MySql",
         "project_date": "2010"
