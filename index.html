@@ -60,7 +60,7 @@
 
     <div id="work">
       <h1>Courses.</h1>
-      <div class="projects" id="work_section">
+      <div class="projects" id="course_section">
       </div>
     </div>
     
@@ -133,23 +133,23 @@
     }).fail(function () {
       return (document.getElementById("work").style.display = "none");
     });
-    $.getJSON("course.json", function (project_) {
-      project_ = project_ || [];
-      if (project_.length == 0) {
+    $.getJSON("course.json", function (course_) {
+      course_ = course_ || [];
+      if (course_.length == 0) {
         return (document.getElementById("work").style.display =
           "none");
       }
-      for (var i = 0; i < project_.length; i++) {
-        $("#work_section").append(`
-          <a href="${project_[i].project_url}" target="_blank">
+      for (var i = 0; i < course_.length; i++) {
+        $("#course_section").append(`
+          <a href="${course_[i].course_url}" target="_blank">
                         <section>
-                            <div class="section_title">${project_[i].title}</div>
+                            <div class="section_title">${course_[i].title}</div>
                             <div class="about_section">
-                            <span style="display:block;">${project_[i].sub_title}</span>
+                            <span style="display:block;">${course_[i].sub_title}</span>
                             </div>
                             <div class="bottom_section">
-                                <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; ${project_[i].project_language}</span>
-                                <span><i class="fas fa-calendar"></i>&nbsp; ${project_[i].project_date}</span>
+                                <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; ${course_[i].course_language}</span>
+                                <span><i class="fas fa-calendar"></i>&nbsp; ${course_[i].course_date}</span>
                                 <!-- <span><i class="fas fa-code-branch"></i>&nbsp; 0</span> -->
                             </div>
                         </section>
