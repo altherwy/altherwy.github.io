@@ -1,9 +1,16 @@
 [
     {
         "course_url": "https://github.com/altherwy/IS4904",
-        "title": "IS4904 - 2023 Fall",
+        "title": "IS4904 - Fall 2023",
         "sub_title": "Web and Mobile Development Course",
         "project_language": "Dart/Flutter",
+        "project_date": "2023 - 2024"
+    },
+    {
+        "course_url": "https://github.com/altherwy/IS0621",
+        "title": "IS0621 - Fall 2023",
+        "sub_title": "Advanced Topics in Database Systems Course",
+        "project_language": "SQL",
         "project_date": "2023 - 2024"
     }
 ]
