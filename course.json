@@ -1,9 +1,9 @@
 [
     {
-        "project_url": "https://github.com/altherwy/RFIDSimulator",
-        "title": "RFID Simulator (Archived)",
-        "sub_title": "Track persons by RFID Readers and motion sensors",
-        "project_language": "Java",
-        "project_date": "2014-2015"
+        "course_url": "https://github.com/altherwy/IS4904",
+        "title": "IS4904 - 2023 Fall",
+        "sub_title": "Web and Mobile Development Course",
+        "project_language": "Dart/Flutter",
+        "project_date": "2023 - 2024"
     }
 ]
